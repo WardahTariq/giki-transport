@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    <title>Robusta Booking System</title>
+    <title>GIKI Booking System</title>
     <meta content="" name="descriptison">
     <meta content="" name="keywords">
 
@@ -48,7 +48,7 @@
 <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-        <h1 class="logo mr-auto"><a href="/"><span>Robusta</a></h1>
+        <h1 class="logo mr-auto"><a href="/"><span>GIKI Transport</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html" class="logo mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 

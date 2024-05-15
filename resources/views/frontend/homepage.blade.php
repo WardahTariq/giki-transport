@@ -20,7 +20,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <span class="form-label">From City</span>
+                                        <span class="form-label">From</span>
                                         <select name="from" class="form-control"  type="text" required>
                                             @foreach($cities as $city)
                                                 <option value="{{$city->name}}"> {{$city->name}} </option>
@@ -30,7 +30,7 @@
                                 </div>
                                 <div class="col-sm-6">
                                     <div class="form-group">
-                                        <span class="form-label">To city</span>
+                                        <span class="form-label">To</span>
                                         <select name="to"class="form-control" type="text" required>
                                             @foreach($cities as $city)
                                                 <option value="{{$city->name}}"> {{$city->name}} </option>
